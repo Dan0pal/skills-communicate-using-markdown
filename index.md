@@ -8,6 +8,9 @@ Esta es una prueba de headers
 ``` python
 print( "Hello, world!")
 ```
-- [x]Hacer el mandado
-- [ ]Hacer de comer
-- [ ]Ir al fucho
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Hacer el mandado
+- [ ] Hacer de comer
+- [ ] Ir al fucho
